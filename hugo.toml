@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://andrijasinski.github.io/'
 languageCode = 'en-us'
 title = 'andri jasinski'
 theme = "hugo-theme-console"
