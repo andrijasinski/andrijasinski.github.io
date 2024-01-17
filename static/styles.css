@@ -1,5 +1,5 @@
 img {
     max-height: 1100px;
     width: auto;
-    /* padding-right: 10%; */
+    max-width: 100%;
   }
