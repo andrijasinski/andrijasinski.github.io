@@ -1,5 +1,5 @@
 +++
-title = 'Photo walk in University of Tartu Botanical Garden'
+title = 'Photo walk in Botanical Garden'
 date = 2024-01-15T18:28:34+02:00
 draft = false
 +++
