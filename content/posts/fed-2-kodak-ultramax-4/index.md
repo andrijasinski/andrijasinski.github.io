@@ -10,10 +10,10 @@ To satisfy our excitement, I did not wait too long and put Kodak Ultramax 400 fi
 
 The camera definitely shows its age, it was very hard to get decent focus out it. Frankly, I think I have failed focus on anything closer than infinity. Some of the ~~good~~ in-focus shots here:
 
-![](R1-00417-0032.JPG)
-![](R1-00417-0035.JPG)
-![](R1-00417-0029.JPG)
-![](R1-00417-0007.JPG)
+![](/photos/2024/January/fed-2-kodak-ultramax-400/R1-00417-0032.JPG)
+![](/photos/2024/January/fed-2-kodak-ultramax-400/R1-00417-0035.JPG)
+![](/photos/2024/January/fed-2-kodak-ultramax-400/R1-00417-0029.JPG)
+![](/photos/2024/January/fed-2-kodak-ultramax-400/R1-00417-0007.JPG)
 
 The rest of it was mostly garbage, unfortunately.
 
