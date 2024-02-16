@@ -50,7 +50,7 @@ nav.navbar {
 }
 
 .navigate {
-    background-color: var(--grey)
+    background-color: var(--white)
 }
 
 .exif {
@@ -62,4 +62,8 @@ nav.navbar {
 
 .slider {
     background-color: var(--white)
+}
+
+.welcome-title {
+    font-size: 1em;
 }
