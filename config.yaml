@@ -5,8 +5,8 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
+  # image: /images/banner.png
+  logo: false
   subtitle: ""
   copyright: All rights reserved. # todo: set your copyright type.
   author: Andri Jasinski # todo: set your full name.
@@ -39,8 +39,8 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
@@ -60,14 +60,14 @@ permalinks:
 
 menu:
   main:
-    - name: work
+    - name: portfolio
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: color
+      url: /tags/color/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: black & white
+      url: /tags/b&w/
       weight: 3
     - name: archive
       url: /tags/archive/
