@@ -3,7 +3,4 @@ title: work
 url: work
 ---
 
-precisely selected pictures.
-
-
-
+Astrologers proclaim week of ~~fart~~ fine art. These pictures are worth exploring. It's all downhill from here.
