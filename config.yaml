@@ -1,0 +1,83 @@
+baseURL: https://andrijasinski.github.io
+title: andri jasinski
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: ''
+
+params:
+  logo: false
+  subtitle: ""
+  copyright: All rights reserved.
+  author: Andri Jasinski
+  dontShowSource: true
+  dontShowLogo: true
+  portfolio:
+    columns:
+      desktop:
+        default: 3
+      mobile:
+        default: 1
+  #       archive: 3
+  #       people: 1
+  socials:
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/andrijasinski'
+      landing: true
+    - icon: 'fa-solid fa-camera-retro fa-lg'
+      url: 'https://www.lomography.com/homes/andrijasinski/'
+      landing: true
+    - icon: 'fab fa-github fa-lg'
+      url: 'https://github.com/andrijasinski'
+      landing: true
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://www.linkedin.com/in/andri-jasinski/'
+      landing: true
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: portfolio
+      url: /work/
+      weight: 1
+    - name: digital
+      url: /tags/digital/
+      weight: 2
+    - name: film
+      url: /tags/film/
+      weight: 3
+    - name: color
+      url: /tags/color/
+      weight: 4
+    # - name: black & white
+    #   url: /tags/b&w/
+    #   weight: 5
+    - name: archive
+      url: /tags/archive/
+      weight: 6
+    - name: tags
+      url: /tags/
+      weight: 7
+    # - name: about
+    #   url: /about/
+    #   weight: 8
