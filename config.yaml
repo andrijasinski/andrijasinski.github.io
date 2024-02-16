@@ -69,7 +69,7 @@ menu:
     - name: color
       url: /tags/color/
       weight: 4
-    - name: black & white
+    - name: b & w
       url: /tags/black-and-white/
       weight: 5
     - name: archive
