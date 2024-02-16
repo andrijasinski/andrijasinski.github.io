@@ -3,7 +3,7 @@ title: work
 url: work
 ---
 
-precisely picked pictures.
+precisely selected pictures.
 
 
 

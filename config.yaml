@@ -78,6 +78,9 @@ menu:
     - name: archive
       url: /tags/archive/
       weight: 6
+    - name: tags
+      url: /tags/
+      weight: 7
     - name: about
       url: /about/
-      weight: 7
+      weight: 8

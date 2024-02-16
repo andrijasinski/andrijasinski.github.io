@@ -8,6 +8,8 @@ tags:
 - archive
 - film
 - color
+- miranda-auto-sensorex-ee
+- harman-phoenix-200
 ---
 
 Camera: Miranda Auto Sensorex EE
