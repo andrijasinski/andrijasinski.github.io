@@ -1,0 +1,10 @@
+<div class="content">
+    {{ if (and .Tags.LensModel .Tags.Model .Tags.FNumber .Tags.ExposureTime .Tags.ISOSpeedRatings .Tags.FocalLength)  }}
+        {{ with .Tags.FNumber }}<div>Aperture: f{{ . }}</div>{{ end }}
+        {{ with .Tags.ExposureTime }}<div>Exposure Time: {{ . }}s</div>{{ end }}
+        {{ with .Tags.FocalLength }}<div>Focal Length: {{ . }}mm</div>{{ end }}
+        {{ with .Tags.ISOSpeedRatings }}<div>ISO: {{ . }}</div>{{ end }}
+        {{ with .Tags.Model }}<div>Camera Model: {{ . }}</div>{{ end }}
+        {{ with .Tags.LensModel }}<div>Lens Model: {{ . }}</div>{{ end }}
+    {{ end }}
+</div>
