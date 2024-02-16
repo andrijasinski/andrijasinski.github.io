@@ -16,5 +16,4 @@ Camera: Miranda Auto Sensorex EE
 
 Lens: Auto Miranda 50mm f1.8
 
-Film Kodak Ultramax 400
-
+Film: Kodak Ultramax 400

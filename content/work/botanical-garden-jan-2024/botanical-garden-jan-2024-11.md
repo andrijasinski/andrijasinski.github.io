@@ -17,4 +17,4 @@ Camera: Miranda Auto Sensorex EE
 
 Lens: Auto Miranda 50mm f1.8
 
-Film HARMAN PHOENIX 200
+Film: HARMAN PHOENIX 200

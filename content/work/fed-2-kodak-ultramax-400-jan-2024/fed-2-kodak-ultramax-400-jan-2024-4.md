@@ -16,5 +16,4 @@ Camera: FED 2
 
 Lens: Industar 26m f2.8 /5cm
 
-Film Kodak Ultramax 400
-
+Film: Kodak Ultramax 400
