@@ -26,9 +26,9 @@ params:
     - icon: 'fa-solid fa-camera-retro fa-lg'
       url: 'https://www.lomography.com/homes/andrijasinski/'
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/andrijasinski'
-      landing: true
+    # - icon: 'fab fa-github fa-lg'
+    #   url: 'https://github.com/andrijasinski'
+    #   landing: true
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/andri-jasinski/'
       landing: true
