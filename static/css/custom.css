@@ -67,3 +67,7 @@ nav.navbar {
 .welcome-title {
     font-size: 1em;
 }
+
+.image-box:hover img {
+    transform: scale(1.006);
+}
