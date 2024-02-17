@@ -71,3 +71,12 @@ nav.navbar {
 .image-box:hover img {
     transform: scale(1.006);
 }
+
+
+.slide-meta-title {
+    font-size: medium;
+}
+
+.slide-meta {
+    font-size: small;
+}
