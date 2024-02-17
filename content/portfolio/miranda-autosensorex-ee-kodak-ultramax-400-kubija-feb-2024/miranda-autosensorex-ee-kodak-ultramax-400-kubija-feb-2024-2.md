@@ -10,7 +10,7 @@ tags:
 - color
 - miranda-auto-sensorex-ee
 - kodak-ultramax-400
-- work
+- portfolio
 ---
 
 Camera: Miranda Auto Sensorex EE

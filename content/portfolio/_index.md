@@ -1,6 +1,6 @@
 ---
-title: work
-url: work
+title: portfolio
+url: portfolio
 ---
 
 Astrologers proclaim week of ~~fart~~ fine art. These pictures are worth exploring.

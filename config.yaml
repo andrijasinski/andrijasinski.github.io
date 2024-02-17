@@ -32,9 +32,9 @@ params:
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/andri-jasinski/'
       landing: true
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  homepage: "/portfolio" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - work
+    - portfolio
     - archive
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
@@ -53,12 +53,12 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+  portfolio: ":filename/"
 
 menu:
   main:
     - name: portfolio
-      url: /work/
+      url: /portfolio/
       weight: 1
     - name: digital
       url: /tags/digital/

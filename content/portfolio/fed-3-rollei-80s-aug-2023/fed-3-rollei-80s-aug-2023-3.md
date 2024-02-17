@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-- /images/2023/August/fed-3-rollei-80s/000015540025.jpg
+- /images/2023/August/fed-3-rollei-80s/000015540027.jpg
 title: FED 3 & Rollei 80s
 date: 2023-08-25
 tags:
@@ -10,7 +10,7 @@ tags:
 - black-and-white
 - fed-3
 - rollei-80s
-- work
+- portfolio
 ---
 
 Camera: FED 3
