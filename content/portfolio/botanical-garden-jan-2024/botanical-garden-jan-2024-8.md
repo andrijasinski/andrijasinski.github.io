@@ -8,7 +8,6 @@ tags:
 - archive
 - film
 - color
-- portfolio
 - miranda-auto-sensorex-ee
 - harman-phoenix-200
 ---
