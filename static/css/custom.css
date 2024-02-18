@@ -80,3 +80,7 @@ nav.navbar {
 .slide-meta {
     font-size: small;
 }
+
+.menu {
+    max-width: 100%;
+}
