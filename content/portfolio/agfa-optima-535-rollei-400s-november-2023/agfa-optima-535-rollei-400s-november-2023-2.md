@@ -1,0 +1,20 @@
+---
+weight: 1
+images:
+- /images/2023/November/agfa-optima-535-rollei-400s/000023510017.jpg
+title: Agfa Optima 535 & Rollei 400s
+hideTitle: true
+date: 2023-11-01
+tags:
+- archive
+- film
+- black-and-white
+- agfa-optima-535
+- rollei-400s
+- tallinn
+---
+
+Camera: Agfa Optima 535
+
+Film: Rollei 400s
+
