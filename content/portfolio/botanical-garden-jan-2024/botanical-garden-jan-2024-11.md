@@ -11,6 +11,7 @@ tags:
 - portfolio
 - miranda-auto-sensorex-ee
 - harman-phoenix-200
+- tartu
 ---
 
 Camera: Miranda Auto Sensorex EE

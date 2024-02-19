@@ -8,4 +8,5 @@ tags:
 - archive
 - digital
 - color
+- tartu
 ---

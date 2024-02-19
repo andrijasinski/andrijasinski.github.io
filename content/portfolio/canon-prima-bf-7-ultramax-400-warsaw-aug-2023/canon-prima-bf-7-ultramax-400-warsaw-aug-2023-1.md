@@ -10,6 +10,7 @@ tags:
 - color
 - canon-prima-bf-7
 - kodak-ultramax-400
+- warsaw
 ---
 
 Camera: Canon Prima BF-7

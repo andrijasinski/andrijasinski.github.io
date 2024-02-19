@@ -10,6 +10,7 @@ tags:
 - color
 - canon-prima-bf-7
 - kodak-ultramax-400
+- bodrum
 ---
 
 Camera: Canon Prima BF-7

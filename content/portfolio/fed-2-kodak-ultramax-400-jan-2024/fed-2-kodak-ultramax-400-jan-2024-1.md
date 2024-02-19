@@ -3,6 +3,7 @@ weight: 1
 images:
 - /images/2024/January/fed-2-kodak-ultramax-400/R1-00417-0007.JPG
 title: FED 2 & Kodak Ultramax 400
+hideTitle: true
 date: 2024-01-20
 tags:
 - archive

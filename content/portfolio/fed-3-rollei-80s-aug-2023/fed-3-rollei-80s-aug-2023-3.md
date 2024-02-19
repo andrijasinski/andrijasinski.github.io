@@ -4,6 +4,7 @@ images:
 - /images/2023/August/fed-3-rollei-80s/000015540027.jpg
 title: FED 3 & Rollei 80s
 date: 2023-08-25
+hideTitle: true
 tags:
 - archive
 - film
@@ -11,6 +12,7 @@ tags:
 - fed-3
 - rollei-80s
 - portfolio
+- tartu
 ---
 
 Camera: FED 3
