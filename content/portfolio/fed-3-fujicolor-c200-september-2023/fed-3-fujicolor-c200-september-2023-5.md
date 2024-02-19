@@ -4,7 +4,6 @@ images:
 - /images/2023/September/fed-3-fujicolor-c200/R1-09882-0010 copy.JPG
 title: FED 3 & Fujicolor C200
 hideTitle: true
-hideExif: true
 date: 2023-09-06
 tags:
 - archive
