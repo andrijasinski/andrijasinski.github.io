@@ -14,11 +14,9 @@ params:
   portfolio:
     columns:
       desktop:
-        default: 3
+        default: 4
       mobile:
         default: 1
-  #       archive: 3
-  #       people: 1
   socials:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/andrijasinski'
