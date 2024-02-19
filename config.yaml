@@ -1,12 +1,13 @@
 baseURL: https://andrijasinski.eu
-title: andri jasinski
+title: andri jasinski photography
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: ''
+enableRobotsTXT: true
 
 params:
   logo: false
-  subtitle: ""
+  subtitle: "Photography journey of Andri Jasinski"
   copyright: All rights reserved.
   author: Andri Jasinski
   dontShowSource: true
