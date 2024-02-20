@@ -2,7 +2,8 @@
 weight: 1
 images:
 - /images/2024/February/miranda-autosensorex-ee-kodak-gold-200/R1-00567-002A.jpg
-title: Jack.
+title: M
+hideTitle: true
 date: 2024-02-20
 tags:
 - archive
