@@ -11,6 +11,7 @@ tags:
 - color
 - fed-3
 - kodak-ultramax-400
+- tartu
 ---
 
 Camera: FED 3

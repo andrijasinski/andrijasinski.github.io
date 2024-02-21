@@ -12,6 +12,7 @@ tags:
 - fed-3
 - fujicolor-c200
 - portfolio
+- tallinn
 ---
 
 Camera: FED 3
