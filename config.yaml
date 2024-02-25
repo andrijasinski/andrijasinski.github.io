@@ -28,9 +28,9 @@ params:
     # - icon: 'fab fa-github fa-lg'
     #   url: 'https://github.com/andrijasinski'
     #   landing: true
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://www.linkedin.com/in/andri-jasinski/'
-      landing: true
+    # - icon: 'fab fa-linkedin-in fa-lg'
+    #   url: 'https://www.linkedin.com/in/andri-jasinski/'
+    #   landing: true
   homepage: "/portfolio" # homepage link, mostly same with menu.main[0]
   specialPages:
     - portfolio
