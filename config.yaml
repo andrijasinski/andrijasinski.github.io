@@ -6,7 +6,7 @@ googleAnalytics: ''
 enableRobotsTXT: true
 
 params:
-  logo: false
+  logo: logo.png
   subtitle: "Photography journey of Andri Jasinski"
   copyright: All rights reserved.
   author: Andri Jasinski
