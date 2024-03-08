@@ -50,7 +50,8 @@ nav.navbar {
 }
 
 .navigate {
-    background-color: var(--white)
+    background-color: var(--white);
+    opacity: 0.7;
 }
 
 .exif {
