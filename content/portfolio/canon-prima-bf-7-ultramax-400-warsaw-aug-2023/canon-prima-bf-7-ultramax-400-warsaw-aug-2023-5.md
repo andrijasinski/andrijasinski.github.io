@@ -12,6 +12,7 @@ tags:
 - kodak-ultramax-400
 - portfolio
 - warsaw
+- interiors
 ---
 
 Camera: Canon Prima BF-7
