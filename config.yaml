@@ -4,6 +4,7 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: ''
 enableRobotsTXT: true
+timeout: 1m
 
 params:
   logo: logo.png
