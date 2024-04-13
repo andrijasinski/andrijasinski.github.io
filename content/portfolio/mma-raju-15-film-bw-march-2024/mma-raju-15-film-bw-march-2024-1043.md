@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/2024/April/raju-15-on-film-bw/20240413-Photo25_28.jpg
-hideTitle: true
+title: MMA RAJU 15
 date: 2024-04-13
 tags:
 - archive
@@ -11,6 +11,7 @@ tags:
 - sports
 - black-and-white
 - kentmere-400
+- portfolio
 ---
 
 Camera: Canon EOS 500N

@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/2024/April/raju-15-on-film-color/20240413-Photo06_9-3.jpg
-hideTitle: true
+title: MMA RAJU 15
 date: 2024-04-13
 tags:
 - archive
