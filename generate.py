@@ -15,15 +15,15 @@ def main():
     prepped_tags = "\n".join(list(map(lambda x: f'- {x}', tags)))
     current_date = datetime.now().strftime("%Y-%m-%d")
 
-    photos = (current_path / photos_path).rglob('*.jpg')
-    i = 1
+    photos = sorted((current_path / photos_path).rglob('*.jpg'))
+    i = 1001
     for photo in photos:
         photo_path = str(photo.relative_to(current_path)).strip("assets")
         print(photo_path)
 
         photo_content_path = (current_path / CONTENT_PATH / content_folder_name)
         photo_content_path.mkdir(parents=True, exist_ok=True)
-        with (photo_content_path  / f"{content_folder_name}-1000{i}.md").open('w') as f:
+        with (photo_content_path  / f"{content_folder_name}-{i}.md").open('w') as f:
             f.write(f"---\n")
             f.write(f"weight: 1\n")
             f.write(f"images:\n- {photo_path}\n")
