@@ -30,7 +30,9 @@ def main():
             f.write(f"hideTitle: true\n")
             f.write(f"date: {current_date}\n")
             f.write(f"tags:\n{prepped_tags}\n")
-            f.write(f"---\n")
+            f.write(f"---\n\n")
+            # f.write("Camera: Canon EOS 500N\n\n")
+            # f.write("Film: Cinestill 800T (pushed 2 stop to 3200 ISO)")
         i += 1
 
 
