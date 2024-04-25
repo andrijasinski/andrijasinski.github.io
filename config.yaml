@@ -60,22 +60,22 @@ menu:
     - name: portfolio
       url: /portfolio/
       weight: 1
+    - name: sicily
+      url: /tags/sicily/
+      weight: 2
+    - name: sports
+      url: /tags/sports/
+      weight: 3
     - name: digital
       url: /tags/digital/
-      weight: 2
+      weight: 4
     - name: film
       url: /tags/film/
-      weight: 3
-    - name: color
-      url: /tags/color/
-      weight: 4
-    - name: b & w
-      url: /tags/black-and-white/
       weight: 5
-    - name: archive
+    - name: dump
       url: /tags/archive/
       weight: 6
-    - name: tags
+    - name: albums
       url: /tags/
       weight: 7
     - name: about
