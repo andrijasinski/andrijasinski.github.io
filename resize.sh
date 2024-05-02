@@ -1,0 +1,1 @@
+function resize() {for f in *.jpg; do sips -Z "$1" "$f"; mv "$f" "${f/.png/_$1x.png}"; done } && resize 2000
