@@ -1,9 +1,9 @@
 ---
-weight: 1
+weight: 10
 images:
 - /images/2024/April/raju-15-on-film-bw/20240413-Photo22_25.jpg
 title: MMA RAJU 15
-date: 2024-04-13
+date: 2024-03-30
 tags:
 - archive
 - film

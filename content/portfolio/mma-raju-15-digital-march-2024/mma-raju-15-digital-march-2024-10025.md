@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 images:
 - /images/2024/March/raju-15-digital-shots/20240330-P1060455.jpg
 title: MMA RAJU 15
