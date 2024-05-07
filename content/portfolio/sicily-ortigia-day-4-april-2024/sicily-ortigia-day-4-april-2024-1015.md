@@ -10,6 +10,5 @@ tags:
 - black-and-white
 - ortigia
 - sicily
-- portfolio
 ---
 
