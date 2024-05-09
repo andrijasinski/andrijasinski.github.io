@@ -23,9 +23,9 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/andrijasinski'
       landing: true
-    - icon: 'fa-solid fa-camera-retro fa-lg'
-      url: 'https://www.lomography.com/homes/andrijasinski/'
-      landing: true
+    # - icon: 'fa-solid fa-camera-retro fa-lg'
+    #   url: 'https://www.lomography.com/homes/andrijasinski/'
+    #   landing: true
     # - icon: 'fab fa-github fa-lg'
     #   url: 'https://github.com/andrijasinski'
     #   landing: true
