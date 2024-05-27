@@ -1,5 +1,5 @@
 <div class="content">
-    {{ if (and .Tags.Model .Tags.FNumber .Tags.ExposureTime .Tags.ISOSpeedRatings .Tags.FocalLength)  }}
+    {{ if (and .Tags.Model .Tags.ExposureTime .Tags.ISOSpeedRatings .Tags.FocalLength)  }}
         {{ with .Tags.FNumber }}<div>Aperture: f{{ . }}</div>{{ end }}
         {{ with .Tags.ExposureTime }}<div>Exposure Time: {{ . }}s</div>{{ end }}
         {{ with .Tags.FocalLength }}<div>Focal Length: {{ . }}mm</div>{{ end }}
