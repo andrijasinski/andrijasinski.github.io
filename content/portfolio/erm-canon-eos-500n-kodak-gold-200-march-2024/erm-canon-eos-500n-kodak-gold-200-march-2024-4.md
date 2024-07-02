@@ -12,7 +12,6 @@ tags:
 - tartu
 - kodak-gold-200
 - canon-eos-500n
-- portfolio
 ---
 
 Camera: Canon EOS 500N

@@ -12,7 +12,6 @@ tags:
 - miranda-auto-sensorex-ee
 - redscale
 - tartu
-- portfolio
 ---
 
 Camera: Miranda Auto Sensorex EE
