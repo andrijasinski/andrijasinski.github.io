@@ -9,5 +9,6 @@ tags:
 - digital
 - color
 - warsaw
+- portfolio
 ---
 
