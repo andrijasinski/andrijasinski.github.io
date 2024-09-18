@@ -9,5 +9,4 @@ tags:
 - digital
 - black-and-white
 - sports
-- portfolio
 ---

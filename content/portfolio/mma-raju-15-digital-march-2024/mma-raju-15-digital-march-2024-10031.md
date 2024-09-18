@@ -9,5 +9,4 @@ tags:
 - digital
 - color
 - sports
-- portfolio
 ---

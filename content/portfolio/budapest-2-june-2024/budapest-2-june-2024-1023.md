@@ -9,6 +9,5 @@ tags:
 - digital
 - color
 - budapest
-- portfolio
 ---
 
