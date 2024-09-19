@@ -11,7 +11,6 @@ tags:
 - color
 - canon-prima-bf-7
 - kodak-gold-200
-- portfolio
 - aero
 ---
 

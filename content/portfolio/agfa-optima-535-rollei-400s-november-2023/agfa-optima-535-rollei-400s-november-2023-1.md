@@ -12,7 +12,6 @@ tags:
 - agfa-optima-535
 - rollei-400s
 - tallinn
-- portfolio
 ---
 
 Camera: Agfa Optima 535

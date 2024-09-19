@@ -10,7 +10,6 @@ tags:
 - color
 - canon-prima-bf-7
 - kodak-ultramax-400
-- portfolio
 - warsaw
 ---
 
