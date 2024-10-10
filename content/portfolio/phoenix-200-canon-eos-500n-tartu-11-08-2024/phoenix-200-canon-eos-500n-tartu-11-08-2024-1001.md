@@ -12,7 +12,6 @@ tags:
 - tartu
 - harman-phoenix-200
 - canon-eos-500n
-- portfolio
 ---
 
 Camera: Canon EOS 500N
