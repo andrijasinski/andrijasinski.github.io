@@ -10,5 +10,4 @@ tags:
 - digital
 - black-and-white
 - tartu
-- portfolio
 ---

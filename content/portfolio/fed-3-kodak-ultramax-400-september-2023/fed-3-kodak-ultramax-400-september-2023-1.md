@@ -11,7 +11,6 @@ tags:
 - color
 - fed-3
 - kodak-ultramax-400
-- portfolio
 ---
 
 Camera: FED 3

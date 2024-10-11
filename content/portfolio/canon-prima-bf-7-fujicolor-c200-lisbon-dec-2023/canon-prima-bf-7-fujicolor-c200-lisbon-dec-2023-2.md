@@ -11,7 +11,6 @@ tags:
 - canon-prima-bf-7
 - fujicolor-c200
 - lisbon
-- portfolio
 ---
 
 Camera: Canon Prima BF-7
