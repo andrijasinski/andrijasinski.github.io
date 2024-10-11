@@ -10,7 +10,6 @@ tags:
 - color
 - cinestill-800t
 - canon-eos-500n
-- portfolio
 - aero
 ---
 

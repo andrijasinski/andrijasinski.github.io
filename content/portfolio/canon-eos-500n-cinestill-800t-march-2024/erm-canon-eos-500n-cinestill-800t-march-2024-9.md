@@ -12,7 +12,6 @@ tags:
 - cinestill-800t
 - canon-eos-500n
 - interiors
-- portfolio
 ---
 
 Camera: Canon EOS 500N

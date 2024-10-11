@@ -10,7 +10,6 @@ tags:
 - black-and-white
 - kentmere-100
 - canon-eos-500n
-- portfolio
 - warsaw
 ---
 
