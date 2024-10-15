@@ -10,5 +10,6 @@ tags:
 - color
 - warsaw
 - poland
+- interior
 ---
 
