@@ -16,7 +16,7 @@ params:
   portfolio:
     columns:
       desktop:
-        default: 4
+        default: 3
       mobile:
         default: 1
   socials:
