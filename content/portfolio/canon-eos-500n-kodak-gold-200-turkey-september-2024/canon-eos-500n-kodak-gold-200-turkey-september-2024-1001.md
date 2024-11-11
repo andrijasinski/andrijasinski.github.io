@@ -11,6 +11,7 @@ tags:
 - kodak-gold-200
 - turkey
 - canon-eos-500n
+- portfolio
 ---
 
 Camera: Canon EOS 500N
