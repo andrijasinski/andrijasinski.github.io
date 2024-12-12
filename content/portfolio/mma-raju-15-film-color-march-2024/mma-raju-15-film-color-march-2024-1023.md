@@ -9,6 +9,7 @@ tags:
 - film
 - canon-eos-500n
 - sports
+- sports-portfolio
 - color
 - cinestill-800t
 - portfolio
