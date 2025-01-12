@@ -10,7 +10,6 @@ tags:
 - color
 - warsaw
 - poland
-- portfolio
 - interior
 ---
 
