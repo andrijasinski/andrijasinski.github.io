@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/2024/December/tartu-misc/20250110-Photo05_5.jpg
-hideTitle: true
+title: Tartu.
 date: 2025-01-12
 tags:
 - archive
