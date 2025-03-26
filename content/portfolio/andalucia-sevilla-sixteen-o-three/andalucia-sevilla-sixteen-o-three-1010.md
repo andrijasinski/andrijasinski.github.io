@@ -2,13 +2,15 @@
 weight: 1
 images:
 - /images/2025/March/Andalucia/Sevilla/sixteen-o-three/_DSC7454.jpg
-hideTitle: true
-date: 2025-03-21
+title: Sevilla.
+date: 2025-03-16
 tags:
 - archive
 - digital
 - spain
 - andalucia
 - sevilla
+- color
+- portfolio
 ---
 
