@@ -60,19 +60,10 @@ menu:
     - name: portfolio
       url: /portfolio/
       weight: 1
-    - name: sicily
-      url: /tags/sicily/
+    - name: andalucia
+      url: /tags/andalucia/
       weight: 2
-    - name: sports
-      url: /tags/sports/
-      weight: 3
-    - name: digital
-      url: /tags/digital/
-      weight: 4
-    - name: film
-      url: /tags/film/
-      weight: 5
-    - name: dump
+    - name: everything-everywhere
       url: /tags/archive/
       weight: 6
     - name: albums

@@ -7,7 +7,7 @@ date: 2025-03-23
 tags:
 - archive
 - digital
-- color
+- black-and-white
 - spain
 - andalucia
 - malaga
