@@ -9,6 +9,5 @@ tags:
 - digital
 - black-and-white
 - egypt
-- portfolio
 ---
 
