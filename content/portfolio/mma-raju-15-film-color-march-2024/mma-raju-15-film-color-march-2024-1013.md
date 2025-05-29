@@ -2,10 +2,11 @@
 weight: 1
 images:
 - /images/2024/April/raju-15-on-film-color/20240413-Photo10_11.jpg
-title: MMA RAJU 15
+title: Raju 15.
 date: 2024-03-30
 tags:
 - archive
+- mma-raju-16
 - film
 - canon-eos-500n
 - sports
