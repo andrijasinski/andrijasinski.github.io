@@ -10,5 +10,6 @@ tags:
 - color
 - tallinn
 - portfolio
+- light-post
 ---
 

@@ -10,5 +10,6 @@ tags:
 - color
 - tartu
 - portfolio
+- light-post
 ---
 
