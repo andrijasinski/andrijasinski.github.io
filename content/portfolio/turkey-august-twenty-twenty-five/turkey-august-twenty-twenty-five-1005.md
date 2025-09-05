@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/2025/August/Turkey/_DSC2779-6.jpg
-hideTitle: true
+title: Turkey.
 date: 2025-08-25
 tags:
 - archive
