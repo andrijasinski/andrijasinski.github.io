@@ -7,7 +7,7 @@ date: 2025-09-05
 tags:
 - archive
 - digital
-- color
+- black-and-white
 - warsaw
 ---
 
