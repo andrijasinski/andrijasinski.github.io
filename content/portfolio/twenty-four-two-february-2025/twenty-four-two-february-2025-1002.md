@@ -9,6 +9,5 @@ tags:
 - digital
 - black-and-white
 - studio
-- portfolio
 ---
 

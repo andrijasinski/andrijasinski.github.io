@@ -11,6 +11,5 @@ tags:
 - spain
 - andalucia
 - cadiz
-- portfolio
 ---
 

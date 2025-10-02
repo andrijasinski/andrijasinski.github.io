@@ -10,6 +10,5 @@ tags:
 - sports-portfolio
 - the-clash-2
 - sports
-- portfolio
 ---
 
