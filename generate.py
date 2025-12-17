@@ -11,9 +11,12 @@ def main():
 
     photos_path = sys.argv[1]
     content_folder_name = sys.argv[2]
-    tags = sys.argv[3:]
+    title = sys.argv[3]
+    date = sys.argv[4]
+    tags = sys.argv[5:]
     prepped_tags = "\n".join(list(map(lambda x: f'- {x}', tags)))
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    output_date = date if date != "today" else datetime.now().strftime("%Y-%m-%d")
+    output_title = f"title: {title}\n" if title != "notitle" else "hideTitle: true\n"
 
     photos = sorted((current_path / photos_path).rglob('*.jpg'))
     i = 1001
@@ -27,8 +30,8 @@ def main():
             f.write(f"---\n")
             f.write(f"weight: 1\n")
             f.write(f"images:\n- {photo_path}\n")
-            f.write(f"hideTitle: true\n")
-            f.write(f"date: {current_date}\n")
+            f.write(output_title)
+            f.write(f"date: {output_date}\n")
             f.write(f"tags:\n{prepped_tags}\n")
             f.write(f"---\n\n")
             # f.write("Camera: Canon EOS 500N\n\n")
