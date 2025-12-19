@@ -60,8 +60,8 @@ menu:
     - name: portfolio
       url: /portfolio/
       weight: 1
-    - name: andalucia
-      url: /tags/andalucia/
+    - name: japan
+      url: /tags/japan/
       weight: 2
     - name: everything-everywhere
       url: /tags/archive/
