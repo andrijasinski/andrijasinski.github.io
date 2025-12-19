@@ -9,6 +9,6 @@ tags:
 - digital
 - japan
 - kamakura
-- color
+- black-and-white
 ---
 
