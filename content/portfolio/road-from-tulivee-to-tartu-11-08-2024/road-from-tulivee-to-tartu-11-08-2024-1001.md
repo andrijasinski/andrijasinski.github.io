@@ -9,7 +9,6 @@ tags:
 - digital
 - color
 - estonia
-- portfolio
 - tulivee
 ---
 
