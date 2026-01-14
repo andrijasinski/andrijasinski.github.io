@@ -2,3 +2,4 @@ resources
 /content/photos/**/*.jpg
 /content/photos/**/*.JPG
 .DS_Store
+__pycache__/
