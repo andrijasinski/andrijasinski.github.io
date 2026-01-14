@@ -10,7 +10,6 @@ tags:
 - color
 - catania
 - sicily
-- portfolio
 ---
 
 

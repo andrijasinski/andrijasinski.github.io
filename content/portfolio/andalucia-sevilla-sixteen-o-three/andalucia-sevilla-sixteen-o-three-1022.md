@@ -10,6 +10,6 @@ tags:
 - spain
 - andalucia
 - sevilla
-- color
+- black-and-white
 ---
 

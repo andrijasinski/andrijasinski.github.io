@@ -7,7 +7,7 @@ date: 2025-03-18
 tags:
 - archive
 - digital
-- color
+- black-and-white
 - spain
 - andalucia
 - cadiz
