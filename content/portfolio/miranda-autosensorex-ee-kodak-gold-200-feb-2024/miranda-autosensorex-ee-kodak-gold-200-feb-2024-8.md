@@ -10,7 +10,6 @@ tags:
 - color
 - miranda-auto-sensorex-ee
 - kodak-gold-200
-- portfolio
 ---
 
 Camera: Miranda Auto Sensorex EE

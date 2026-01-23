@@ -12,7 +12,6 @@ tags:
 - estonia
 - mustvee
 - zeiss-ikon-ikoflex
-- portfolio
 ---
 
 Camera: Zeiss Ikon Ikoflex TLR

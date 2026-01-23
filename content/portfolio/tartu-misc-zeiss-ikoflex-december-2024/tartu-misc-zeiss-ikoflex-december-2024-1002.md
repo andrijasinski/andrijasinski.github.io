@@ -11,7 +11,6 @@ tags:
 - zeiss-ikon-ikoflex
 - black-and-white
 - ilford-hp5
-- portfolio
 ---
 
 Camera: Zeiss Ikon Ikoflex TLR

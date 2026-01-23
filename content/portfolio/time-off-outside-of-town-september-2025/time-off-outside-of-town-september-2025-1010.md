@@ -10,6 +10,5 @@ tags:
 - käära-pesa
 - estonia
 - color
-- portfolio
 ---
 

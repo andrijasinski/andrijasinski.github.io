@@ -12,7 +12,6 @@ tags:
 - sports
 - color
 - cinestill-800t
-- portfolio
 ---
 
 Camera: Canon EOS 500N

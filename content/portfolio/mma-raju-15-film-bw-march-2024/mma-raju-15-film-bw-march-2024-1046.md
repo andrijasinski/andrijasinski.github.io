@@ -13,7 +13,6 @@ tags:
 - sports-portfolio
 - black-and-white
 - kentmere-400
-- portfolio
 ---
 
 Camera: Canon EOS 500N
