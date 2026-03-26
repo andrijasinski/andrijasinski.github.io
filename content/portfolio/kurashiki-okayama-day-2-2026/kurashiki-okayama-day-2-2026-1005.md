@@ -10,5 +10,6 @@ tags:
 - japan
 - okayama
 - black-and-white
+- portfolio
 ---
 
