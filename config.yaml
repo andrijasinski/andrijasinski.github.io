@@ -4,7 +4,7 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: ''
 enableRobotsTXT: true
-timeout: 1m
+timeout: 10m
 
 params:
   logo: logo.png
@@ -69,6 +69,6 @@ menu:
     - name: albums
       url: /tags/
       weight: 7
-    - name: about
-      url: /about/
+    - name: store
+      url: https://snapsbyandri.etsy.com
       weight: 8
