@@ -8,6 +8,6 @@ tags:
 - archive
 - digital
 - aero
-- black-and-white
+- color
 ---
 
