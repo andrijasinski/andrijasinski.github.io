@@ -1,4 +1,5 @@
 resources
+public
 /content/photos/**/*.jpg
 /content/photos/**/*.JPG
 .DS_Store
