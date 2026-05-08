@@ -53,7 +53,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  portfolio: ":filename/"
+  portfolio: ":contentbasename/"
 
 menu:
   main:

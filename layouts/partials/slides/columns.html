@@ -17,10 +17,12 @@
                 people: 1
 -->
 
+{{ $titleKey := .ctx.Params.Title | default .ctx.Data.Term | default "" }}
+
 <!-- desktop columns -->
 {{ $columnsCount := 0 }}
 {{ if .ctx.Site.Params.portfolio.columns.desktop }}
-	{{ $columnsCount = index .ctx.Site.Params.portfolio.columns.desktop .ctx.Params.Title }}
+	{{ $columnsCount = index .ctx.Site.Params.portfolio.columns.desktop $titleKey }}
 {{ end }}
 {{ if not $columnsCount }}
 	{{ if .ctx.Site.Params.portfolio.columns.desktop }}
@@ -34,7 +36,7 @@
 
 {{ $posts := slice }}
 {{ if .ctx.Site.Taxonomies.tags }}
-	{{ $posts = index .ctx.Site.Taxonomies.tags .ctx.Params.Title }}
+	{{ $posts = index .ctx.Site.Taxonomies.tags $titleKey }}
 	{{ $posts = sort $posts ".Params.weight" "desc" }}
 	{{ $posts = sort $posts ".Params.date" "desc" }}
 {{ end }}
@@ -67,7 +69,7 @@
 <!-- mobile columns -->
 {{ $mobileColumnsCount := 0 }}
 {{ if .ctx.Site.Params.portfolio.columns.mobile }}
-	{{ $mobileColumnsCount = index .ctx.Site.Params.portfolio.columns.mobile .ctx.Params.Title }}
+	{{ $mobileColumnsCount = index .ctx.Site.Params.portfolio.columns.mobile $titleKey }}
 {{ end }}
 {{ if not $mobileColumnsCount }}
 	{{ if .ctx.Site.Params.portfolio.columns.mobile }}

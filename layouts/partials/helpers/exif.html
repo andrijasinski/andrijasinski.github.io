@@ -1,11 +1,19 @@
 <div class="content">
-    {{ if (and .Tags.Model .Tags.ExposureTime .Tags.ISOSpeedRatings .Tags.FocalLength)  }}
-        {{ with .Tags.FNumber }}<div>Aperture: f{{ . }}</div>{{ end }}
-        {{ with .Tags.ExposureTime }}<div>Exposure Time: {{ . }}s</div>{{ end }}
-        {{ with .Tags.FocalLength }}<div>Focal Length: {{ . }}mm</div>{{ end }}
-        {{ with .Tags.FocalLengthIn35mmFilm }}<div>Full Frame Equivalent: {{ . }}mm</div>{{ end }}
-        {{ with .Tags.ISOSpeedRatings }}<div>ISO: {{ . }}</div>{{ end }}
-        {{ with .Tags.Model }}<div>Camera Model: {{ . }}</div>{{ end }}
-        {{ with .Tags.LensModel }}<div>Lens Model: {{ . }}</div>{{ end }}
+    {{ if (and .Model .ExposureTime .ISO .FocalLength)  }}
+        {{ with .FNumber }}
+            {{ $v := printf "%v" . }}
+            {{ if in $v "/" }}
+                {{ $p := split $v "/" }}
+                <div>Aperture: f{{ printf "%.1f" (div (float (index $p 0)) (float (index $p 1))) }}</div>
+            {{ else }}
+                <div>Aperture: f{{ . }}</div>
+            {{ end }}
+        {{ end }}
+        {{ with .ExposureTime }}<div>Exposure Time: {{ . }}s</div>{{ end }}
+        {{ with .FocalLength }}<div>Focal Length: {{ . }}mm</div>{{ end }}
+        {{ with .FocalLengthIn35mmFormat }}<div>Full Frame Equivalent: {{ . }}mm</div>{{ end }}
+        {{ with .ISO }}<div>ISO: {{ . }}</div>{{ end }}
+        {{ with .Model }}<div>Camera Model: {{ . }}</div>{{ end }}
+        {{ with .LensModel }}<div>Lens Model: {{ . }}</div>{{ end }}
     {{ end }}
 </div>
