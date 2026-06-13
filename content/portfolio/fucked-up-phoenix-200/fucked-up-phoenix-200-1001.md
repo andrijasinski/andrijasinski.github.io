@@ -10,6 +10,5 @@ tags:
 - phoenix-200
 - olympus-mju-2
 - black-and-white
-- portfolio
 ---
 

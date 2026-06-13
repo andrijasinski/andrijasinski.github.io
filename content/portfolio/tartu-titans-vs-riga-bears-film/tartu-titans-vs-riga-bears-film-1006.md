@@ -12,6 +12,7 @@ tags:
 - ilford-hp5
 - nikon-af600
 - sports-portfolio
+- portfolio
 ---
 
 Camera: Nikon AF600
