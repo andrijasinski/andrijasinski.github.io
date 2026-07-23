@@ -1,0 +1,14 @@
+---
+weight: 1
+images:
+- /images/2026/July/the-league-12/_DSC1321-56.jpg
+title: The League XII.
+date: 2026-07-05
+tags:
+- archive
+- digital
+- sports
+- the-league-12
+- black-and-white
+---
+
