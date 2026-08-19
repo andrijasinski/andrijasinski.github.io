@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 images:
 - /images/2026/July/the-league-12/_DSC2803-103.jpg
 title: The League XII.
